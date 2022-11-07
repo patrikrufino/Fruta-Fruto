@@ -7,3 +7,18 @@
 ## Objetivos:
 
 * Utilizar o padrão BEM na arquitetura dos arquivos CSS.
+
+## Disponível Gihub Pages:
+
+[Fruta & Fruto](https://patrikrufino.github.io/fruta-fruto/)
+
+## Contribua
+
+> Você pode contribuir criando issues de funcionalidades
+
+## Meta
+-------
+
+Reproduzido por Patrik Rufino [@patrik_rufino](https://twitter.com/patrik_rufino)
+
+Feito a partir de um curso da @alura
